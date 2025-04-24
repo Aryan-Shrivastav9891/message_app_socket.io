@@ -1,0 +1,10 @@
+username  = aryanshrivastav9891
+pass = SsAkJpTEjax9gooz
+
+url = mongodb+srv://aryanshrivastav9891:SsAkJpTEjax9gooz@cluster0.gf5ub.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
+
+//
+JWT_SECRET = ARYAN@123123
+PORT = 8081
+MONGO_URL = mongodb+srv://aryanshrivastav9891:SsAkJpTEjax9gooz@cluster0.gf5ub.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
